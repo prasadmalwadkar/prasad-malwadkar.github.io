@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://prasad-malwadkar.github.io",
+  "homepage": "https://prasadmalwadkar.github.io",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
